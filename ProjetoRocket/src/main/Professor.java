@@ -1,7 +1,7 @@
 public class Professor {
 
-   public inst idade;
+   public int idade;
    public String nome;
+   public String cpf;
 
-    }
 }
